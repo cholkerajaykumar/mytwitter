@@ -1,0 +1,232 @@
+body{
+    background-color: #16202a !important;
+}
+.align-text-center{
+    text-align: center;
+}
+.full-width{
+    width: 100%;
+}
+#twt_img{
+    width: 10%;
+    margin: 3%;     
+}
+.heading{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+#placeholder{
+    color: rgb(241, 235, 235);
+    position: absolute;
+    left: 20px;
+    padding: 5px;
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif ;
+    opacity: 0.3;
+    font-weight: 100;
+}
+#input_text{
+    height: 60px;
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+    background-color: #192734;
+    outline: none; 
+    color: white;
+    font-size: large; 
+    border-right-width: 0px;
+}
+#input_password{
+    height: 60px;
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+    background-color: #192734;
+    outline: none; 
+    color: white;
+    font-size: large; 
+    border-right-width: 0px;
+}
+#input_button{
+    height: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #19508e;
+    border: none;
+    color: antiquewhite;
+    border-radius: 25px;
+    outline: none;
+    font-size: large;
+    margin-bottom: 1rem;
+}
+.modal-content{
+    background-color:#16202a !important;
+    border-radius: 1.3rem !important;
+    height: 560px;
+    outline: none;
+    border: none;
+}
+.modal-dialog{
+    background-color: none !important;
+}
+.modal-header{
+    color: white;
+    justify-content: flex-start;
+}
+.modal-body{
+    text-align: center;
+}
+#signup-name{
+    width: 100%;
+    height: 60px;
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+    background-color: #192734;
+    outline: none; 
+    color: white;
+    font-size: large; 
+    border-right-width: 0px;
+}
+#signup-email{
+    width: 100%;
+    height: 60px;
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+    background-color: #192734;
+    outline: none; 
+    color: white;
+    font-size: large; 
+    border-right-width: 0px;
+}
+.fade{
+    background-color: #39414c;
+}
+.input-date{
+    color: white;
+    text-align: left;
+}
+#placeholder1{
+    color: rgb(241, 235, 235);
+    position: absolute;
+    left: 20px;
+    padding: 5px;
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif ;
+    opacity: 0.3;
+}
+#signupimg{
+    justify-content: center;
+    padding-left: 14rem;
+}
+#signupimg1{
+    justify-content: center;
+    text-align: center !important;
+    padding-top: 1rem;
+    
+    
+}
+#signup-head{
+    color: white;
+    padding-left: 1rem;
+    margin-bottom: initial;
+}
+#paracontent{
+    opacity: 40%;
+    font-weight: 100;
+}
+#next1{
+    width: 12%;
+    margin-top: 1rem;
+    padding-left: .5rem;
+    border-radius: 25px;
+    margin-left: 10rem;
+    outline: none;
+    border: none;
+    background-color: #43586b;
+    color: white;
+    font-size: 15px;
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif ;
+}
+#signup-month{
+    width: 45%;
+    height: 40px;
+    background-color: #192734;
+    color: white;
+    outline: none;
+}
+#signup-date{
+    width: 25%;
+    height: 40px;
+    background-color: #192734;
+    color: white;
+    outline: none;
+}
+#signup-year{
+    width: 28%;
+    height: 40px;
+    background-color: #192734;
+    color: white;
+    outline: none;
+}
+#bday{
+    margin-left: 170px;
+}
+#byear{
+    margin-left: 95px;
+}
+.checkbox{
+    display: inline-block;
+    
+}
+.heading1{
+    display: inline-block;
+    color: white;
+}
+#signup_button{
+    height: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #19508e;
+    border: none;
+    color: antiquewhite;
+    border-radius: 25px;
+    outline: none;
+    font-size: large;
+    margin-top: 3rem;
+}
+#gotomodal{
+    margin: 15px;
+    outline: none;
+    border: none;
+    border-radius: 20rem;
+    background-color: cornflowerblue;
+    padding-bottom: 0.2rem;
+    float: left;
+}
+#signup-name1{
+    width: 100%;
+    height: 60px;
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+    background-color: #192734;
+    outline: none; 
+    color: white;
+    font-size: large; 
+    border-right-width: 0px;
+}
+#signup-email1{
+    width: 100%;
+    height: 60px;
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+    background-color: #192734;
+    outline: none; 
+    color: white;
+    font-size: large; 
+    border-right-width: 0px;
+}
+#signup-birthday1{
+    width: 100%;
+    height: 60px;
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+    background-color: #192734;
+    outline: none; 
+    color: white;
+    font-size: large; 
+    border-right-width: 0px;
+}

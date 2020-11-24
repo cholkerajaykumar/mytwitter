@@ -1,0 +1,90 @@
+body{
+    background-color: #16202a !important;
+}
+.nav-item{
+    width: 100%;
+}
+ul{
+    width: 100%;
+    list-style-type: none;
+}
+.bg-light{
+    background-color: #16202a !important; 
+}
+.navbar{
+    justify-content: left !important;
+}
+.glyphicon{
+    font-size: x-large;
+    margin-right: 5%;
+    color: white;
+    line-height: 0 !important;
+}
+a{
+    font-size: large;
+}
+.side-bar{
+    color: white;
+}
+.nav-link{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+li:hover{
+    background-color: #4286ca;
+    opacity: 60%;
+    cursor: default;
+    border-radius: 23px;
+    margin: auto;
+}
+#twtsearch{
+    width: 100%;
+    height: 10%;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+    background-color:#133f6b;
+    opacity: 60%;
+    margin-top: 2%;
+}
+.butn{
+    width: 100%;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    background-color: #4286ca;
+    height: 40px;
+    font-size: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: none;
+}
+
+#para{
+    margin-top: 5px;
+    width: 100%;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+#content{
+    padding-left: 1rem;
+    color: white;
+}
+.welcome{
+    margin-top: 40px;
+    margin-left: 74px;
+    font-size: 15px;
+}
+#logout{
+    width: 50%;
+    text-align: center;
+    font-size: large;
+    justify-content: center;
+    color: white;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+    background-color:#133f6b;
+    margin-top: 2%;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
